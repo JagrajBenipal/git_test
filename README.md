@@ -1,3 +1,3 @@
 # git_test
 This is my first ever github repo :)
-Hello Odin!
+and I love Avicii's music.
